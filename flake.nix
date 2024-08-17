@@ -129,15 +129,15 @@
           bun
 
           # ml4w qtile
-          qtile
+          # qtile
           picom
           scrot
           slock
           xorg.xorgserver
           xorg.xinit
           nitrogen
-          python-dbus-next
-          python-iwlib
+          # python-dbus-next
+          # python-iwlib
           xautolock
           qtile-extras
 
@@ -154,12 +154,6 @@
           fira-code
           figlet
           vlc
-          python-pip
-          python-psutil
-          python-rich
-          python-click
-          python-pywal
-          python-gobject
           pavucontrol
           tumbler
           papirus-icon-theme
