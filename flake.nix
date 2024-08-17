@@ -127,7 +127,6 @@
           mission-center
           grimblast
           bun
-          aylurs-gtk-shell
 
           # ml4w qtile
           qtile
